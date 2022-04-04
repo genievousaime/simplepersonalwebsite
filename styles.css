@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather',
+        serif;
+
+}
+
+.top-container {
+    background-color: #ECA3F5;
+    padding-top: 100px;
+    position: relative;
+
+}
+
+hr {
+    border-top: 9px dotted #eaf6f6;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    width: 90px;
+    border-radius: 0;
+    clear: left;
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.middle-container {
+    padding-top: 10px;
+}
+
+.bottom-container {
+    background-color: #B0EFEB;
+    display: inline-block;
+    width: 100%;
+    padding-top: 20px;
+
+}
+
+h1 {
+    font-family: 'Sacramento',
+        cursive;
+    margin: 50px auto 0 auto;
+    font-size: 90px;
+    color: #9900F0;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat',
+        sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #9900F0;
+}
+
+h3 {
+    font-family: 'Montserrat',
+        sans-serif;
+    color: #0d6c6f;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.pro-span {
+    text-decoration: underline;
+}
+
+.language {
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+}
+
+.artist {
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+
+.computer {
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+
+.girl-image {
+
+    width: 25%;
+}
+
+a {
+    font-family: 'Montserrat',
+        sans-serif;
+    color: #0d6c6f;
+}
+
+a:hover {
+    color: #0fbbc1;
+}
+
+
+
+.footer-link {
+    margin: 10px 20px;
+}
+
+.email {
+    font-family: 'Montserrat',
+        sans-serif;
+    color: #9900F0;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+p {
+    line-height: 2;
+}
